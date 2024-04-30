@@ -20,7 +20,7 @@
     "antd-img-crop": "^4.21.0",
     "axios": "^1.6.8",
     "getbase64data": "^1.0.8",
-    "i18next": "^23.10.1",
+    "i18next": "^23.11.0",
     "js-file-download": "^0.4.12",
     "lodash-es": "^4.17.21",
     "lodash.debounce": "^4.0.8",
