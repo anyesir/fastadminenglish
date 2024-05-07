@@ -12,10 +12,10 @@
   resolved "https://registry.yarnpkg.com/@ant-design/charts-util/-/charts-util-0.0.1-alpha.5.tgz#bb8ab113194f0ffeddb688d54bfd63d6f0007fb7"
   integrity sha512-EwTUjRPhU2CUyI2e11pAi9aOQg9oEWdFEWxv1f4j+Ta4doYXd1yTl94Zy9JvigiEj4qv8dPGl0PUd3r+qMVrAg==
 
-"@ant-design/charts@^2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@ant-design/charts/-/charts-2.0.3.tgz#552648d8dd663b052e0c2425699825b7957dfb25"
-  integrity sha512-CDyDRoMLtUcZ6ZU92nmW23Yt9a9KJU3Z/i5RPMasDuBMShTPNY3i/sOQgv5nTho+7FfBMVrdAax+cKAYcAz3jQ==
+"@ant-design/charts@^2.0.4":
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/@ant-design/charts/-/charts-2.1.1.tgz#9d5cb738d642e589ff38df1d1ea6c2ac8cf011fe"
+  integrity sha512-db/Dcc8HdftcmiN6QXePzTw3MeGZD/6XeBrefY+Isjm55jUrvSE+zFf5GEFFrSi4C06LP4ioEEcqUXxblGKwHA==
   dependencies:
     "@ant-design/plots" "^2.1.3"
 
