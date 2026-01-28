@@ -22,7 +22,7 @@
     "getbase64data": "^1.0.8",
     "i18next": "^23.10.1",
     "js-file-download": "^0.4.12",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "lodash.debounce": "^4.0.8",
     "query-string": "^9.0.0",
     "react": "^18.2.0",
